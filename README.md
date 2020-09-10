@@ -14,7 +14,7 @@ See the full spec [here](https://github.com/ulid/spec).
 This repo intends to implement the spec in Zig.
 
 ## TODO
--[ ] Monotonic ULID support
+- [ ] Monotonic ULID support
 
 
 ## Use
