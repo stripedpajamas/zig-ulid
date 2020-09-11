@@ -18,7 +18,7 @@ This repo intends to implement the spec in Zig.
 
 
 ## Use
-See [`example.zig`]() for usage examples.
+See [`example.zig`](https://github.com/stripedpajamas/zig-ulid/blob/main/example.zig) for usage examples.
 
 ```zig
 const Ulid = @import("./ulid.zig");
